@@ -24,7 +24,7 @@ SwiftData handles persistence, ensuring all entries are safely stored on-device.
 
 Building DevLog offered hands-on experience with:
 1) SwiftData setups and schemas
-2) Managing relationships (if any) between models
+2) Managing relationships between models
 3) Understanding how SwiftUI interacts with persistent data
 4) App state updates when editing, adding, or deleting entries
 
