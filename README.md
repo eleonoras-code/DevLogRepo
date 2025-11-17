@@ -5,7 +5,7 @@ This project was built with SwiftData, with a learning focus on:
 1) Data persistency
 2) Modeling data and relationships
 3) Local storage mechanisms
-4)Efficient handling of text, dates, and images
+4) Efficient handling of text, dates, and images
 
 The app currently allows the user to: 
 1) Create rich entries with text, date, and images
